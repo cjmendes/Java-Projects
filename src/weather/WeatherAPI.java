@@ -97,10 +97,4 @@ public class WeatherAPI
 		}
 	}
 
-	/*public static void main(String[] args)
-	{
-		WeatherAPI w = new WeatherAPI();
-		String zipInfo = w.getInformation(args[0]);
-		System.out.println(shortened);
-	}*/
 }
